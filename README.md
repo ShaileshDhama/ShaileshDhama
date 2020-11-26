@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-Hi, I'm Shailesh Dhama, a Machine Learning Enthusiast 🚀 from India 🙍🏽‍♂️ CSE Undergrad 👨🏽‍💻 [@REVA](https://www.reva.edu.in/).
+Hi, I'm Shailesh Dhama, a Machine Learning Enthusiast 🚀 from India 🙍🏽‍♂️ CSE Grad 👨🏽‍💻 [@REVA](https://www.reva.edu.in/).
  
  <br/>
  
