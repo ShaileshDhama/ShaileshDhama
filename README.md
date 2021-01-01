@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/shaileshdhama/">
   <img align="left" alt="Shailesh Dhama's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://shaileshdhama.github.io/shaileshdhama.github.io/">
+<a href="https://shaileshdhama.github.io/shailesh-dhama.github.io/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"" />
 </a>
 <br/>
