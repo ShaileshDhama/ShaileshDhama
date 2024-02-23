@@ -11,18 +11,23 @@
 <br/>
 <br/>
 
-Hi, I'm Shailesh Dhama, a Machine Learning Enthusiast 🚀🙍🏽‍♂️ Master's Student 👨🏽‍💻 [@TU DORTMUND](https://www.tu-dortmund.de/en/).
+### Hello World 👋🏽, I'm Shailesh Dhama!, Welcome to my GitHub! I'm a passionate Machine Learning Enthusiast and a dedicated Master's Student at [TU Dortmund](https://www.tu-dortmund.de/en/), constantly exploring the cutting edge of deep learning and artificial intelligence. I'd appreciate it if you could dive into my projects to see how I'm harnessing the power of data to unlock new potential.
  
 <br/>
- 
-**Here's what you need to know**
 
-- 👨🏽‍💻 I’m currently working on [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning);
-- 🌱 I’m currently learning Generative Adversarial Networks and NLP; 
-- 💬 Ask me about anything, and I will try to help;
-- ⚡️  I love to code in Python and R;
-- 📫 Reach me: shaileshshettyd@gmail.com;
-- 💼 Looking for Data Science opportunities;
+**Connect with me:**
+
+- [LinkedIn](https://www.linkedin.com/in/shaileshdhama/)
+- [My Personal Website](https://shaileshdhama.github.io/)
+ 
+**A bit about me:**
+
+- 🔭 I’m currently focusing on deep learning projects and their applications;
+- 🌱 Expanding my knowledge in Generative Adversarial Networks (GANs) and Natural Language Processing (NLP);
+- 💬 Happy to chat about tech, data science, and any exciting AI advancements;
+- ⚡ Coding enthusiast with a special love for Python and R;
+- 📫 Reach out to me at shaileshshettyd@gmail.com;
+- 💼 On the lookout for challenging Data Science roles.
 
 <br/>
 
