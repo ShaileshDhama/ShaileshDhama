@@ -1,5 +1,3 @@
-### Hi there 👋🏽, I'm Shailesh Dhama
-
 <br/>
 
 <a href="https://www.linkedin.com/in/shaileshdhama/">
@@ -16,11 +14,6 @@
 Welcome to my GitHub! I'm a passionate Machine Learning Enthusiast and a dedicated Master's Student at [TU Dortmund](https://www.tu-dortmund.de/en/), constantly exploring the cutting edge of deep learning and artificial intelligence. I'd appreciate it if you could dive into my projects to see how I'm harnessing the power of data to unlock new potential.
  
 <br/>
-
-**Connect with me:**
-
-- [LinkedIn](https://www.linkedin.com/in/shaileshdhama/)
-- [My Personal Website](https://shaileshdhama.github.io/)
  
 **A bit about me:**
 
