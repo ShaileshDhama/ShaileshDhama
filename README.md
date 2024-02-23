@@ -11,7 +11,9 @@
 <br/>
 <br/>
 
-### Hello World 👋🏽, I'm Shailesh Dhama!, Welcome to my GitHub! I'm a passionate Machine Learning Enthusiast and a dedicated Master's Student at [TU Dortmund](https://www.tu-dortmund.de/en/), constantly exploring the cutting edge of deep learning and artificial intelligence. I'd appreciate it if you could dive into my projects to see how I'm harnessing the power of data to unlock new potential.
+### Hello World 👋🏽, I'm Shailesh Dhama!
+
+Welcome to my GitHub! I'm a passionate Machine Learning Enthusiast and a dedicated Master's Student at [TU Dortmund](https://www.tu-dortmund.de/en/), constantly exploring the cutting edge of deep learning and artificial intelligence. I'd appreciate it if you could dive into my projects to see how I'm harnessing the power of data to unlock new potential.
  
 <br/>
 
